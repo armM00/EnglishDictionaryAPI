@@ -18,7 +18,7 @@ This is a simple Flask-based API that retrieves word definitions from a CSV file
 
 2. Run the server:
 
-`python main.py`
+   - `python main.py`
 
 ## Usage
 
