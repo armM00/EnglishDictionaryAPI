@@ -12,9 +12,9 @@ This is a simple Flask-based API that retrieves word definitions from a CSV file
 ### Installation
 
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   pip install Flask
+
+   - `git clone https://github.com/armM00/EnglishDictionaryAPI.git`
+   - `pip install Flask`
 
 2. Run the server:
 
