@@ -5,7 +5,7 @@ This is a simple Flask-based API that retrieves word definitions from a CSV file
 ## Getting Started
 
 ### Prerequisites
-- Python 3.x
+- Python 3.11.3
 - Flask
 - csv (included in Python standard library)
 
