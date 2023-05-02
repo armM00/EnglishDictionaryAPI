@@ -1,3 +1,6 @@
+![alt text](https://i.pinimg.com/originals/d1/0f/de/d10fde83b975cd247c2817b5d8c970e1.jpg)
+
+
 # Dictionary API
 
 This is a simple Flask-based API that retrieves word definitions from a CSV file and returns them in JSON format. 
